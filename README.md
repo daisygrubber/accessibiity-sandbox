@@ -1,1 +1,1 @@
-# accessibiity-sandbox
+# accessibility-sandbox
